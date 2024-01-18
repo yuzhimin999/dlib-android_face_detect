@@ -11,7 +11,7 @@
 
 ### Grab the source
 
-    $ git clone --recursive https://github.com/tzutalin/dlib-android.git
+    $ git clone --recursive https://github.com/yuzhimin999/dlib-android_face_detect.git
     $ cd dlib-android
     $ ./envsetup
 
